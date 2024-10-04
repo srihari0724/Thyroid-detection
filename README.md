@@ -1,1 +1,1 @@
-# Thyroid-detection
+# thyroid_detection
